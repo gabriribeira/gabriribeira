@@ -51,7 +51,7 @@ My background spans **full-stack development**, **event-driven architectures**, 
 - DBs: Neo4j, MySQL, MongoDB, Redis; CI/CD & Docker/Nginx
 - Full-stack: React UIs, deployment, system monitoring
 
-### Dynamik, Aveiro  
+### Dynamik — *Full Stack Web Developer | SysAdmin*
 *Sep 2022 – Jul 2023 | Aveiro, Portugal | Hybrid*  
 - Full project lifecycle for custom web solutions (Vue, Laravel, Node, React, Tailwind, more)
 - Agile/Scrum team collaboration
