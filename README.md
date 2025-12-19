@@ -30,7 +30,7 @@ My background spans **full-stack development**, **event-driven architectures**, 
 
 ## 🚀 Experience
 
-### Blip.pt (Flutter Entertainment) — *Software Engineer*  
+### Blip.pt | Fanduel (Flutter Entertainment) — *Software Engineer*  
 *Jun 2025 – Present | Porto, Portugal | Hybrid*  
 - Front-End/Product team for high-traffic mobile apps (React Native)
 - Performance optimization, component modularization
@@ -46,13 +46,14 @@ My background spans **full-stack development**, **event-driven architectures**, 
 - Thesis: AI-powered UX in educational platforms
 
 ### Altice Labs — *Full Stack Web Developer | SysAdmin*  
-*Jul 2023 – Jun 2025 | Aveiro, Portugal | On-site*  
+*Sep 2024 – Jun 2025 | Aveiro, Portugal | On-site*  
 - Multi-tenant platforms: Backend APIs (PHP, event-driven)
 - DBs: Neo4j, MySQL, MongoDB, Redis; CI/CD & Docker/Nginx
 - Full-stack: React UIs, deployment, system monitoring
 
-### Sapo Campus, Dynamik, Freelance  
-- Full project lifecycle for custom web solutions (React, Node, Laravel, Tailwind, AWS, Vercel, more)
+### Dynamik, Aveiro  
+*Sep 2022 – Jul 2023 | Aveiro, Portugal | Hybrid*  
+- Full project lifecycle for custom web solutions (Vue, Laravel, Node, React, Tailwind, more)
 - Agile/Scrum team collaboration
 - Portfolio, product, and institutional platform delivery
 
