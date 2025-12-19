@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel Ribeira
 
-### Software Engineer @ Blip.pt (Flutter Entertainment) | Product-Minded | HCI Research | Full-Stack Dev
+### Software Engineer @ Blip.pt (Flutter Entertainment) | HCI Research | Full-Stack Dev
 
 ---
 
