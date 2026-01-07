@@ -55,13 +55,13 @@ My background spans **full-stack development**, **event-driven architectures**, 
 - Thesis: AI-powered UX in educational platforms
 
 ### Altice Labs — *Full Stack Web Developer | SysAdmin*  
-*Sep 2024 – Jun 2025 | Aveiro, Portugal | On-site*  
+*Sep 2023 – Jun 2025 | Aveiro, Portugal | On-site*  
 - Multi-tenant platforms: Backend APIs (PHP, event-driven)
 - DBs: Neo4j, MySQL, MongoDB, Redis; CI/CD & Docker/Nginx
 - Full-stack: React UIs, deployment, system monitoring
 
 ### Dynamik — *Full Stack Web Developer | SysAdmin*
-*Sep 2023 – Sep 2024 | Aveiro, Portugal | Hybrid*  
+*Sep 2022 – Sep 2023 | Aveiro, Portugal | Hybrid*  
 - Full project lifecycle for custom web solutions (Vue, Laravel, Node, React, Tailwind, more)
 - Agile/Scrum team collaboration
 - Portfolio, product, and institutional platform delivery
