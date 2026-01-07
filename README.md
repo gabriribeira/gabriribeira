@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Gabriel Ribeira
 
-### Software Engineer @ Blip.pt (Flutter Entertainment) | HCI Research | Full-Stack Dev
+### Software Engineer @ Blip.pt | Fanduel (Flutter Entertainment) | HCI Research | Full-Stack Dev
 
 ---
 
 ## 🌟 About Me
 
-I'm a **software engineer** passionate about building user-centric, scalable products. Currently, I work at **Blip|Fanduel** (Flutter Entertainment) where I help deliver high-traffic mobile apps.
+I'm a **software engineer** passionate about building user-centric, scalable products. Currently, I work at **Blip | Fanduel** (Flutter Entertainment) where I help deliver high-traffic mobile apps.
 
 My background spans **full-stack development**, **event-driven architectures**, and **multidisciplinary research**. I thrive at the intersection of engineering and research, bridging teams, and making products better through clear structure, technical excellence, and strong collaboration.
 
