@@ -6,9 +6,9 @@
 
 ## 🌟 About Me
 
-I'm a **software engineer** passionate about building user-centric, scalable products. Currently, I work at **Blip** (Flutter Entertainment) where I help deliver high-traffic mobile apps, focusing on **React Native**, UX, and iterative, data-informed delivery. 
+I'm a **software engineer** passionate about building user-centric, scalable products. Currently, I work at **Blip|Fanduel** (Flutter Entertainment) where I help deliver high-traffic mobile apps.
 
-My background spans **full-stack development**, **event-driven architectures**, and **multidisciplinary research** in HCI and visual communication. I thrive at the intersection of engineering and research, bridging teams, and making products better through clear structure, technical excellence, and strong collaboration.
+My background spans **full-stack development**, **event-driven architectures**, and **multidisciplinary research**. I thrive at the intersection of engineering and research, bridging teams, and making products better through clear structure, technical excellence, and strong collaboration.
 
 ---
 
@@ -24,7 +24,7 @@ My background spans **full-stack development**, **event-driven architectures**, 
 **Ops & Tooling:**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI%2FCD-FCA121?logo=gitlab&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)  
 **Analytics & Monitoring:** Datadog, Amplitude  
-**Cloud & Deploy:** Vercel, Netlify, AWS
+**Cloud & Deploy:** Vercel, Netlify, AWS, 
 
 ---
 
@@ -32,14 +32,14 @@ My background spans **full-stack development**, **event-driven architectures**, 
 
 ### Blip.pt | Fanduel (Flutter Entertainment) — *Software Engineer*  
 *Jun 2025 – Present | Porto, Portugal | Hybrid*  
-- Front-End/Product team for high-traffic mobile apps (React Native)
+- Front-End/Product team for high-traffic mobile apps (React, React Native)
 - Performance optimization, component modularization
 - UI/UX improvements based on rich analytics  
 - Collaboration with designers, QA, Product, & stakeholders  
 - Data-driven iteration using large-scale monitoring tools
 
 ### DigiMedia, UA — *HCI & Visual Communication Researcher*  
-*Sep 2021 – Jul 2025 | Aveiro, Portugal | Hybrid*  
+*Sep 2021 – Dec 2025 | Aveiro, Portugal | Hybrid*  
 - HCI, user engagement, and visual communication studies  
 - Prototype development, mixed-methods research, reporting  
 - Cross-functional academic collaboration & user studies  
@@ -52,7 +52,7 @@ My background spans **full-stack development**, **event-driven architectures**, 
 - Full-stack: React UIs, deployment, system monitoring
 
 ### Dynamik — *Full Stack Web Developer | SysAdmin*
-*Sep 2022 – Jul 2023 | Aveiro, Portugal | Hybrid*  
+*Sep 2023 – Sep 2024 | Aveiro, Portugal | Hybrid*  
 - Full project lifecycle for custom web solutions (Vue, Laravel, Node, React, Tailwind, more)
 - Agile/Scrum team collaboration
 - Portfolio, product, and institutional platform delivery
@@ -69,35 +69,26 @@ My background spans **full-stack development**, **event-driven architectures**, 
 
 ---
 
-## 🏆 Awards & Honors
-
-- 🥇 **Prémio Disruptivo & Prémio Profissional** - Media Play 2024, UA
-- 🥇 **Prémio Academia & Prémio Disruptivo** - Media Play 2023, UA
-- 📸 **Best Photography** - Made in Deca, UA
-
----
-
 ## 🎓 Education
 
 - **Master’s in Communication & Web Tech**  
-  Universidade de Aveiro, 2023–2025  
-  *Web solutions, research, and technological leadership*
+  Universidade de Aveiro, 2023–2025 (Grade: 18/20)
+  *Artificial Intelligence, LLM's, UX|UI, Web Solutions and Research*
 
 - **Bachelor’s in Multimédia e Tecnologias da Comunicação**  
-  Universidade de Aveiro, 2020–2023 (Grade: 17.1/20)
+  Universidade de Aveiro, 2020–2023 (Grade: 17/20)
 
 - **Bachelor of Engineering (Electrical & Electronics)**  
   Universidade de Coimbra, 2019
 
 ---
 
-## 🏅 Certifications
+## 🏆 Awards & Honors
 
-- 🎯 *Critical Thinking Strategies For Better Decisions* (Udemy, 2025)
-- 🎯 *Goal Setting at Work* (Udemy, 2025)
-- 🖥️ *Command Line / Bash*, *C#*, *React (Beginner–Advanced)*, *JavaScript*, *React Router* (Codecademy, 2022–24)
-- 🏅 Participation in Students@DigiMedia series (2022–24)
-- 🎶 *Formação Musical* & *Oboé* Certificates (Escola de Música Orfeão de Leiria, 2016)
+- 🥇 **Prémio Disruptivo** - Media Play 2024, UA | et.cetera
+- 🥇 **Prémio Profissional** - Media Play 2024, UA | et.cetera
+- 🥇 **Prémio Academia** - Media Play 2023, UA | emme
+- 🥇 **Prémio Disruptivo** - Media Play 2023, UA | emme
 
 ---
 
@@ -115,19 +106,6 @@ My background spans **full-stack development**, **event-driven architectures**, 
 | **Emme** | Social music discovery, human-centered recommendation (UA) | React, UX, HCI |
 | **Urban Shutters** | Street photography collective, Portugal (Freelance) | Web, Visual Storytelling |
 | **Hortus Siccus** | Virtual herbarium & challenges for sustainability (UA) | React, Community Engagement |
-| **Não te Sentes** | Award-winning short film on emotional health (UA) | Direction, Poetry |
-
----
-
-## 💼 Top Skills
-
-- Full-Stack Development
-- Front-End Development
-- Back-End Web Development
-- System & Database Administration
-- Event-Driven Architecture
-- Team Facilitation (Scrum Master)
-- UX/UI Design, HCI Research, Product Analytics
 
 ---
 
