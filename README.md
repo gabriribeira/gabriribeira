@@ -1,19 +1,10 @@
-# 👋 Hi, I'm Gabriel Ribeira
-
-### Software Engineer @ Blip.pt | Fanduel (Flutter Entertainment) | HCI Research | Full-Stack Dev
-
----
-
-## 🌟 About Me
-
 I'm a **software engineer** passionate about building user-centric, scalable products. Currently, I work at **Blip | Fanduel** (Flutter Entertainment) where I help deliver high-traffic mobile apps.
 
 My background spans **full-stack development**, **event-driven architectures**, and **multidisciplinary research**. I thrive at the intersection of engineering and research, bridging teams, and making products better through clear structure, technical excellence, and strong collaboration.
 
 ---
 
-## 🛠️ Tech Stack
-
+## Tech Stack
 **Languages & Frameworks:**  
 ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white) ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?logo=svelte&logoColor=white) 
@@ -37,7 +28,7 @@ My background spans **full-stack development**, **event-driven architectures**, 
 
 ---
 
-## 🚀 Experience
+## Experience
 
 ### Blip.pt | Fanduel (Flutter Entertainment) — *Software Engineer*  
 *Jun 2025 – Present | Porto, Portugal | Hybrid*  
@@ -54,7 +45,7 @@ My background spans **full-stack development**, **event-driven architectures**, 
 - Cross-functional academic collaboration & user studies  
 - Thesis: AI-powered UX in educational platforms
 
-### Altice Labs — *Full Stack Web Developer | SysAdmin*  
+### Fundação Altice Portugal | Altice Labs — *Full Stack Web Developer | SysAdmin*  
 *Sep 2023 – Jun 2025 | Aveiro, Portugal | On-site*  
 - Multi-tenant platforms: Backend APIs (PHP, event-driven)
 - DBs: Neo4j, MySQL, MongoDB, Redis; CI/CD & Docker/Nginx
@@ -68,17 +59,8 @@ My background spans **full-stack development**, **event-driven architectures**, 
 
 ---
 
-## 🎯 Career Highlights
 
-- 🏗️ Built features for apps serving **millions of users**
-- 🕸️ Multi-tenant & event-driven architectures
-- 🏆 Multiple awards at University of Aveiro for engineering & innovation
-- 🤝 Peer mentoring in server-side dev & team facilitation
-- 🔍 HCI research: bridging design, technology, and UX
-
----
-
-## 🎓 Education
+## Education
 
 - **Master’s in Communication & Web Tech**  
   Universidade de Aveiro, 2023–2025 (Grade: 18/20)
@@ -92,33 +74,7 @@ My background spans **full-stack development**, **event-driven architectures**, 
 
 ---
 
-## 🏆 Awards & Honors
-
-- 🥇 **Prémio Disruptivo** - Media Play 2024, UA | et.cetera
-- 🥇 **Prémio Profissional** - Media Play 2024, UA | et.cetera
-- 🥇 **Prémio Academia** - Media Play 2023, UA | emme
-- 🥇 **Prémio Disruptivo** - Media Play 2023, UA | emme
-
----
-
-## 🏗️ Projects
-
-| Project          | Description | Stack / Skills |
-|------------------|-------------|---------------|
-| **Campus by Fundação Altice** | Multi-tenant educational/social platform; collaboration & community (Altice Labs/UA) | Full-stack, Multi-tenant, Product Management |
-| **Fora d'Aulas** | Tool to boost student motivation, support teacher/student collaboration (Altice Labs/UA) | React, Node.js, UX, Inclusive Tech |
-| **GPS (Global Portuguese Scientists)** | Worldwide network for Portuguese researchers (Altice Labs/UA) | Platform Dev, Community, Social Tech |
-| **miOne** | Senior community, health/news, digital inclusion (Altice Labs/UA) | Full-stack, Social Platforms |
-| **et.cetera** | Household/group management, shared lists/expenses. (UA) | Product Management, Scrum Master, Full-Stack |
-| **Trifolium Farms** | Agricultural business website (Freelance) | React.js, Tailwind CSS, SysAdmin |
-| **Echoes** | Digital memory/Alzheimer assistance platform (UA) | Laravel, MySQL, Firebase, React.js |
-| **Emme** | Social music discovery, human-centered recommendation (UA) | React, UX, HCI |
-| **Urban Shutters** | Street photography collective, Portugal (Freelance) | Web, Visual Storytelling |
-| **Hortus Siccus** | Virtual herbarium & challenges for sustainability (UA) | React, Community Engagement |
-
----
-
-## 🗣️ Languages
+## Languages
 
 - 🇵🇹 **Portuguese** (Native)
 - 🇬🇧 **English** (Professional working)
@@ -132,6 +88,3 @@ My background spans **full-stack development**, **event-driven architectures**, 
 - [LinkedIn](https://www.linkedin.com/in/gabriribeira/)
 - [Email](mailto:gmrribeira@gmail.com) <!-- Add your email or remove if private -->
 
----
-
-<sub>🖋️ Styled & maintained with 💡 by Gabriel Ribeira.</sub>
